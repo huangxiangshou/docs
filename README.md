@@ -41,7 +41,7 @@ This is the fastest way to submit content changes directly from the page where y
 3. Make your edits to the document that opens in GitHub by clicking the ✎ (pencil) icon
 4. Submit a PR with your changes and comments for context
 
-### The typical PR
+### The typical PRs
 
 This is the standard fork-branch-commit workflow for submitting pull requests to open-source repositories:
 
