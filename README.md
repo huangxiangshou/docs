@@ -32,7 +32,7 @@ For simple content changes you have 2 options:
 - [Submit an issue](https://github.com/near/docs/issues)
 - [Submit a pull request](https://github.com/near/docs/pulls) *(we prefer PRs of course)*
 
-### The instant PR
+### The instant PRs
 
 This is the fastest way to submit content changes directly from the page where you notice a mistake.
 
