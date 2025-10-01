@@ -15,7 +15,7 @@
 
 This is the repository for the official documentation of NEAR Protocol, a user-friendly and carbon-neutral blockchain, built from the ground up to be performant, secure, and infinitely scalable.
 
-## Quick start
+## Quick start here
 
 Check out the following links:
 
