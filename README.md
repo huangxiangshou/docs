@@ -110,7 +110,7 @@ For broken links internal to the docs, please submit an issue or PR request as p
 
 If you found a broken link from a Google search, please request to remove it from their index here: https://www.google.com/webmasters/tools/removals
 
-## Check for broken links
+## Check for broken links?
 
 Before opening a pull request, please check for broken links by navigating to `./website` directory and run:
 
