@@ -21,6 +21,6 @@ It's encouraged to write unit tests on new features. Many NEAR repositories have
 
 For example, a repository might have `yarn test` available. It's a good idea to run tests locally before submitting a pull request, as these will be caught during the CI process.
 
-### Thank you
+### Thank you!
 
 NEAR values all contributors to the projects in the ecosystem and invites public discussion on the tech and vision. Please feel free to join the conversation using the links offered at [near.help](https://near.help).
