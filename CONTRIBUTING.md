@@ -11,7 +11,7 @@ Please include these  steps to reproduce if you are reporting an error. Informat
 
 If verbosity flags are available, please include those to offer as much information as possible.
 
-When opening a pull request, please use the typical open-source flow of forking the desired repository and opening a pull request from your forked repository. (More information on [technical contributions here](https://wiki.near.org/development/how-to-contribute).)
+When opening pull requests, please use the typical open-source flow of forking the desired repository and opening a pull request from your forked repository. (More information on [technical contributions here](https://wiki.near.org/development/how-to-contribute).)
 
 ## Testing
 
