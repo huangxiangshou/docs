@@ -7,11 +7,11 @@ Please visit [the contribution overview](https://wiki.near.org/contribute/near-c
 
 Some repositories (including this one) have specific issue templates that will be helpful for maintainers and community contributors. Please use the templates whenever available.
 
-Please include these  steps to reproduce if you are reporting an error. Information on all applicable versions is quite helpful. Some versions can be found using the command line. (For example: `node --version` or `rustc --version`.) Other version information may be packaged as dependencies. (For example: in `package.json` or `Cargo.toml`.)
+Please include these steps to reproduce if you are reporting an error. Information on all applicable versions is quite helpful. Some versions can be found using the command line. (For example: `node --version` or `rustc --version`.) Other version information may be packaged as dependencies. (For example: in `package.json` or `Cargo.toml`.)
 
 If verbosity flags are available, please include those to offer as much information as possible.
 
-When opening pull requests, please use the typical open-source flow of forking the desired repository and opening a pull request from your forked repository. (More information on [technical contributions here](https://wiki.near.org/development/how-to-contribute).)
+While opening pull requests, please use the typical open-source flow of forking the desired repository and opening a pull request from your forked repository. (More information on [technical contributions here](https://wiki.near.org/development/how-to-contribute).)
 
 ## Testing
 
